@@ -18,4 +18,6 @@ pip install -r requirements.txt
 ### Open QT Designer for designing WebCam Desktop App
 
 1. Go to the directory where `pyqt5-tools` are installed and create a shortcut to desktop
-2. Open the Desinger and start desinging the app
+2. Open the Desinger and start desinging the app as below:
+
+![UI design](UI design.png)
